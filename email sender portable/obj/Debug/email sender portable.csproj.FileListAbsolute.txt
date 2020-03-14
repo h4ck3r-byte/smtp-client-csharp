@@ -1,0 +1,9 @@
+C:\Users\root\Desktop\email sender portable\bin\Debug\email sender portable.exe.config
+C:\Users\root\Desktop\email sender portable\bin\Debug\email sender portable.exe
+C:\Users\root\Desktop\email sender portable\bin\Debug\email sender portable.pdb
+C:\Users\root\Desktop\email sender portable\obj\Debug\email sender portable.csprojAssemblyReference.cache
+C:\Users\root\Desktop\email sender portable\obj\Debug\email_sender_portable.Form1.resources
+C:\Users\root\Desktop\email sender portable\obj\Debug\email_sender_portable.Properties.Resources.resources
+C:\Users\root\Desktop\email sender portable\obj\Debug\email sender portable.csproj.GenerateResource.cache
+C:\Users\root\Desktop\email sender portable\obj\Debug\email sender portable.exe
+C:\Users\root\Desktop\email sender portable\obj\Debug\email sender portable.pdb
