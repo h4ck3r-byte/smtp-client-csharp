@@ -1,2 +1,2 @@
-# c-email-sender-portable
+# c#-email-sender-portable
 smtp client
